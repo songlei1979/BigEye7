@@ -26,7 +26,7 @@ SECRET_KEY = '#)ajz(mvysbk=f@mf&#00i9kwos1aqi3bobgzql^ff9v$c41vi'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
